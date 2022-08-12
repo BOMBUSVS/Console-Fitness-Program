@@ -1,0 +1,42 @@
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.CMD.exe.config
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.CMD.exe
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.CMD.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\en-us\FitnessCaloriesProgram.CMD.resources.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.BL.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\System.ValueTuple.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\EntityFramework.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.BL.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.BL.dll.config
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\System.ValueTuple.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\EntityFramework.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.Languages.Mesagges-ru- ru.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.Languages.Messages.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.Languages.Messages.en-us.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.GenerateResource.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\en-us\FitnessCaloriesProgram.CMD.resources.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.CopyComplete
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.exe
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.pdb
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.CMD.exe.config
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.CMD.exe
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.CMD.pdb
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\en-us\FitnessCaloriesProgram.CMD.resources.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.BL.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\System.ValueTuple.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\EntityFramework.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.BL.pdb
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\FitnessCaloriesProgram.BL.dll.config
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\System.ValueTuple.xml
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Release\EntityFramework.xml
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.AssemblyReference.cache
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.Languages.Mesagges-ru- ru.resources
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.Languages.Messages.resources
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.Languages.Messages.en-us.resources
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.GenerateResource.cache
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.CoreCompileInputs.cache
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\en-us\FitnessCaloriesProgram.CMD.resources.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.csproj.CopyComplete
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.exe
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Release\FitnessCaloriesProgram.CMD.pdb

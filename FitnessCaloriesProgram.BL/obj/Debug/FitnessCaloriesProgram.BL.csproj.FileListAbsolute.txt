@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.Properties.Resources.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.csproj.GenerateResource.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\FitnessCaloriesProgram.BL.dll.config
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\FitnessCaloriesProgram.BL.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\FitnessCaloriesProgram.BL.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\EntityFramework.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\EntityFramework.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.csproj.CopyComplete
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Debug\FitnessCaloriesProgram.BL.csproj.AssemblyReference.cache

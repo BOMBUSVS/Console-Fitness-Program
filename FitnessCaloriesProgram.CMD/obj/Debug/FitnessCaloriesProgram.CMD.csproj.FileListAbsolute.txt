@@ -1,0 +1,21 @@
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.Languages.Messages.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.csproj.GenerateResource.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\FitnessCaloriesProgram.CMD.exe.config
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\FitnessCaloriesProgram.CMD.exe
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\FitnessCaloriesProgram.CMD.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\FitnessCaloriesProgram.BL.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\System.ValueTuple.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\EntityFramework.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\FitnessCaloriesProgram.BL.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\FitnessCaloriesProgram.BL.dll.config
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\System.ValueTuple.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\EntityFramework.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.csproj.CopyComplete
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.exe
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.Languages.Mesagges-ru- ru.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\bin\Debug\en-us\FitnessCaloriesProgram.CMD.resources.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\FitnessCaloriesProgram.CMD.Languages.Messages.en-us.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.CMD\obj\Debug\en-us\FitnessCaloriesProgram.CMD.resources.dll

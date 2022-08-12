@@ -1,0 +1,28 @@
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\FitnessCaloriesProgram.BL.dll.config
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\FitnessCaloriesProgram.BL.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\FitnessCaloriesProgram.BL.pdb
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.Properties.Resources.resources
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.GenerateResource.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.CopyComplete
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.dll
+C:\Users\1\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.pdb
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\FitnessCaloriesProgram.BL.dll.config
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\FitnessCaloriesProgram.BL.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\FitnessCaloriesProgram.BL.pdb
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.SqlServer.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.xml
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\bin\Release\EntityFramework.SqlServer.xml
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.AssemblyReference.cache
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.Properties.Resources.resources
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.GenerateResource.cache
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.CoreCompileInputs.cache
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.csproj.CopyComplete
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.dll
+D:\visual studio\source\repos\FitnessCaloriesProgram\FitnessCaloriesProgram.BL\obj\Release\FitnessCaloriesProgram.BL.pdb
